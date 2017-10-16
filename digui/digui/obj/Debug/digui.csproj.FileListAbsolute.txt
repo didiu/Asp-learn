@@ -7,3 +7,6 @@ d:\documents\visual studio 2015\Projects\C#learn\digui\digui\obj\Debug\digui.pdb
 D:\GitHub\digui\digui\bin\Debug\digui.exe.config
 D:\GitHub\digui\digui\obj\Debug\digui.exe
 D:\GitHub\digui\digui\obj\Debug\digui.pdb
+D:\GitHub\Asp-learn\digui\digui\bin\Debug\digui.exe.config
+D:\GitHub\Asp-learn\digui\digui\obj\Debug\digui.exe
+D:\GitHub\Asp-learn\digui\digui\obj\Debug\digui.pdb
