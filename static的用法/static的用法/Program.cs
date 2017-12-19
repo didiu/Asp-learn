@@ -15,7 +15,7 @@ namespace static的用法
     {
         static void Main(string[] args)
         {
-            StaticVar sv = new static的用法.StaticVar();
+            StaticVar sv = new StaticVar();
             StaticVar sv2 = new StaticVar();
             sv.setValue(10);
             sv.count();
